@@ -1,4 +1,4 @@
-# Poultry Disease Classification Flask Application
+## Poultry Disease Classification Flask Application
 
 A comprehensive Flask web application for classifying poultry diseases using machine learning and computer vision.
 
